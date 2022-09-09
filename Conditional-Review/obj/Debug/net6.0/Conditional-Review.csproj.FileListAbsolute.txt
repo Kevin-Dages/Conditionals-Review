@@ -1,0 +1,15 @@
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\bin\Debug\net6.0\Conditional-Review.exe
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\bin\Debug\net6.0\Conditional-Review.deps.json
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\bin\Debug\net6.0\Conditional-Review.runtimeconfig.json
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\bin\Debug\net6.0\Conditional-Review.dll
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\bin\Debug\net6.0\Conditional-Review.pdb
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\obj\Debug\net6.0\Conditional-Review.csproj.AssemblyReference.cache
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\obj\Debug\net6.0\Conditional-Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\obj\Debug\net6.0\Conditional-Review.AssemblyInfoInputs.cache
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\obj\Debug\net6.0\Conditional-Review.AssemblyInfo.cs
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\obj\Debug\net6.0\Conditional-Review.csproj.CoreCompileInputs.cache
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\obj\Debug\net6.0\Conditional-Review.dll
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\obj\Debug\net6.0\refint\Conditional-Review.dll
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\obj\Debug\net6.0\Conditional-Review.pdb
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\obj\Debug\net6.0\Conditional-Review.genruntimeconfig.cache
+C:\Users\WCCIStudent\Source\repos\Conditional-Review\Conditional-Review\obj\Debug\net6.0\ref\Conditional-Review.dll
